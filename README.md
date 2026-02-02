@@ -33,7 +33,7 @@ How to use:
 
 1. Clone the repository:
    git clone https://github.com/saahi-source/AirQuality-Prediction.git
-2. Open the Jupyter Notebook (`airquality_prediction.ipynb`)
+2. Open the Jupyter Notebook ('airquality_prediction.ipynb')
 3. Run all cells to see:
    - Data cleaning and preprocessing
    - Visualizations
