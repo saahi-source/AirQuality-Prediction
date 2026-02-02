@@ -28,9 +28,15 @@ Key Insights
 
 - Correlation analysis shows relationships between pollutants and air quality.
 
-The dataset ('air_quality.csv') is included in this repository.
 
 How to use:
 
 1. Clone the repository:
-   git clone 
+   git clone https://github.com/saahi-source/AirQuality-Prediction.git
+2. Open the Jupyter Notebook (`airquality_prediction.ipynb`)
+3. Run all cells to see:
+   - Data cleaning and preprocessing
+   - Visualizations
+   - Random Forest model predictions and evaluations
+4. The dataset ('air_quality.csv') is included in this repository.
+
