@@ -27,3 +27,10 @@ Key Insights
 - Seasonal trends indicate AQI worsens in certain months.
 
 - Correlation analysis shows relationships between pollutants and air quality.
+
+The dataset ('air_quality.csv') is included in this repository.
+
+How to use:
+
+1. Clone the repository:
+   git clone 
